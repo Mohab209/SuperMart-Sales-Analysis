@@ -96,10 +96,10 @@ Special thanks to **Ahmed Abd Elbaky** for helping me learn Excel professionally
 ---
 
 
-
 ### 🧑‍💻 About Me:
 
 I'm a data analysis student passionate about building real, hands-on projects that simulate the challenges of actual business data.
 This project reflects my growth in cleaning, thinking, and storytelling with data.
 
 ---
+![SuperMart Sales Dashboard Preview](Dashbord.png)
