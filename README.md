@@ -102,4 +102,4 @@ I'm a data analysis student passionate about building real, hands-on projects th
 This project reflects my growth in cleaning, thinking, and storytelling with data.
 
 ---
-![SuperMart Sales Dashboard Preview](Dashbord.png)
+![SuperMart Sales Dashboard Preview](Dashboard.png)
